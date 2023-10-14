@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80346394917",
+    "project_id": "bjpleader-25064",
+    "storage_bucket": "bjpleader-25064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80346394917:android:e468e2d117f26128fd2acc",
+        "android_client_info": {
+          "package_name": "com.example.bjp_leader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbnz6H2KHtbOx0fc7Bf_eDJYfCyVfmLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
